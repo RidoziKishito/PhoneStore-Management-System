@@ -1,0 +1,769 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|c:\\users\\lehuu\\desktop\\group4_finalproject_dbms\\phonestore\\phonestore\\business\\saleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\saleorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:PhoneStore\\Business\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\warranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\warranty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\technical_specs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\technical_specs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\importorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\importorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\additionalfunctions\\nominatim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\additionalfunctions\\nominatim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\database\\dbmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\database\\dbmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\uccustomerforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\uccustomerforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\uccustomerforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\uccustomerforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\additionalfunctions\\globalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\additionalfunctions\\globalstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:PhoneStore\\Forms\\ucDashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucproductmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucproduct_model_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucproduct_model_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\additionalfunctions\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\additionalfunctions\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucimport_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucimport_supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\temporary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\temporary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\saleorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\saleorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\business\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\business\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucimport_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucimport_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucproductmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\notificationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\phonestore\\forms\\ucproduct_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B75D349-4406-4EA2-B6A3-868DB0E9813F}|PhoneStore\\PhoneStore.csproj|solutionrelative:phonestore\\forms\\ucproduct_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ucDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucDashboard.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucDashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:24:20.752Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Product.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Product.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Product.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Product.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowBEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:22:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\ProductModel.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\ProductModel.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\ProductModel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:23:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Employee.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Employee.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Employee.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:22:23.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Customer.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Customer.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Customer.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Customer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAA5wF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:24:20.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Promotion.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Promotion.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Promotion.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Promotion.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:19:01.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaleOrder.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\SaleOrder.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\SaleOrder.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\SaleOrder.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\SaleOrder.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:05:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Warranty.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Warranty.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Warranty.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Warranty.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Warranty.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:07:30.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Technical_Specs.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Technical_Specs.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Technical_Specs.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Technical_Specs.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Technical_Specs.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:23:46.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImportOrder.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\ImportOrder.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\ImportOrder.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\ImportOrder.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\ImportOrder.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:22:27.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Supplier.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Supplier.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Supplier.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Supplier.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:23:41.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nominatim.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\AdditionalFunctions\\Nominatim.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\AdditionalFunctions\\Nominatim.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\AdditionalFunctions\\Nominatim.cs",
+              "RelativeToolTip": "PhoneStore\\AdditionalFunctions\\Nominatim.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:51:36.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBMain.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Database\\DBMain.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Database\\DBMain.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Database\\DBMain.cs",
+              "RelativeToolTip": "PhoneStore\\Database\\DBMain.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAkwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:47:32.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\DashBoard.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\DashBoard.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\DashBoard.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:24:20.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucCustomerForAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucCustomerForAdmin.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucCustomerForAdmin.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucCustomerForAdmin.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucCustomerForAdmin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:35:35.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucOrder.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucOrder.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucOrder.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:29:05.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProductModel.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucProductModel.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProductModel.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucProductModel.cs",
+              "ViewState": "AgIAAPABAAAAAAAAAAAYwB0CAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:46:05.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucCustomerForAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucCustomerForAdmin.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucCustomerForAdmin.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucCustomerForAdmin.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucCustomerForAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:25:22.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotificationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\NotificationForm.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\NotificationForm.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\NotificationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:53:30.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Program.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Program.cs",
+              "RelativeToolTip": "PhoneStore\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:47:09.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\MainForm.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\MainForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAWwE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:35:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GlobalState.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\AdditionalFunctions\\GlobalState.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\AdditionalFunctions\\GlobalState.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\AdditionalFunctions\\GlobalState.cs",
+              "RelativeToolTip": "PhoneStore\\AdditionalFunctions\\GlobalState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T05:32:58.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:04:59.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:06:11.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ucOrder.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucOrder.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucOrder.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucOrder.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucOrder.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAWwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:29:46.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ucProductModel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProductModel.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucProductModel.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProductModel.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucProductModel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:36:23.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ucDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucDashboard.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop_official\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:24:21.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ucProduct_Model_input.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProduct_Model_input.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucProduct_Model_input.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop_official\\PhoneStore\\PhoneStore\\Forms\\ucProduct_Model_input.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:36:21.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ucUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucUser.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucUser.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop_official\\PhoneStore\\PhoneStore\\Forms\\ucUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:55:11.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ucEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucEmployee.Designer.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucEmployee.Designer.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucEmployee.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:56:38.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ucUser.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucUser.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucUser.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucUser.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:55:13.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\AdditionalFunctions\\Session.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\AdditionalFunctions\\Session.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\AdditionalFunctions\\Session.cs",
+              "RelativeToolTip": "PhoneStore\\AdditionalFunctions\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:58:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ucEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucEmployee.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucEmployee.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop_official\\PhoneStore\\PhoneStore\\Forms\\ucEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:17:43.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ucEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucEmployee.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucEmployee.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucEmployee.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucEmployee.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAYwMEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:19:53.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ucImport_Supplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucImport_Supplier.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucImport_Supplier.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucImport_Supplier.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucImport_Supplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:25:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ucDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucDashboard.Designer.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:55:27.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Notification.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Notification.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Notification.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Notification.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:22:54.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Temporary.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Temporary.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Temporary.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Temporary.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Temporary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:23:44.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ucImport.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucImport.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucImport.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucImport.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\ucImport.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAA/wI0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:32:40.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ucImport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucImport.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucImport.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop\\PhoneStore\\PhoneStore\\Forms\\ucImport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:26:04.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Login.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\Login.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\Login.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\Login.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:22:45.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SaleOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\SaleOrderDetail.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Business\\SaleOrderDetail.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Business\\SaleOrderDetail.cs",
+              "RelativeToolTip": "PhoneStore\\Business\\SaleOrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T08:16:57.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ucOrderDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucOrderDetail.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucOrderDetail.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop\\PhoneStore\\PhoneStore\\Forms\\ucOrderDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:26:09.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ucImport_Order.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucImport_Order.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucImport_Order.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop\\PhoneStore\\PhoneStore\\Forms\\ucImport_Order.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:25:40.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NotificationForm.cs",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\NotificationForm.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\NotificationForm.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\NotificationForm.cs",
+              "RelativeToolTip": "PhoneStore\\Forms\\NotificationForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T07:04:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "PhoneStore\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:52:58.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ucProduct_input.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProduct_input.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucProduct_input.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop\\PhoneStore\\PhoneStore\\Forms\\ucProduct_input.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:36:22.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ucProductManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lehuu\\Desktop\\Group4_FinalProject_DBMS\\PhoneStore\\PhoneStore\\Forms\\ucProductManagement.cs",
+              "RelativeDocumentMoniker": "PhoneStore\\Forms\\ucProductManagement.cs",
+              "ToolTip": "E:\\dbms\\dbms_phoneshop\\PhoneStore\\PhoneStore\\Forms\\ucProductManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T06:36:19.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

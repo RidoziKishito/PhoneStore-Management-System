@@ -1,0 +1,49 @@
+# ========================
+# Build results
+# ========================
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# ========================
+# Visual Studio files
+# ========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ========================
+# NuGet packages (nếu dùng)
+# ========================
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if you have external packages
+# !packages/repositories.config
+
+# ========================
+# Debug / crash logs
+# ========================
+*.log
+
+# ========================
+# Publish files
+# ========================
+*.publishsettings
+*.Publish.xml
+
+# ========================
+# Temporary files
+# ========================
+*.tmp
+*.bak
+*.old
+*.orig
+
+# ========================
+# Visual Studio Code (nếu có)
+# ========================
+.vscode/
